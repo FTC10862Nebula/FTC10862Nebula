@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @FTC10862Nebula
 - 👀 I’m a FIRST FTC Team. I help program all of 10862's Code.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me from our socials!
 -     Instagram - @nebula10862
 -     Youtube - Droid Rage: Nebula
